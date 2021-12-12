@@ -17,7 +17,7 @@ npm install cors
 현재 레파지토리의 app.js를 만든것
 
 # 4. 해당 폴더 내 터미널 실행
-node index.js
+node app.js
 
 # 5. 서버 확인
 http://localhost:8080/todos
