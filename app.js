@@ -5,17 +5,17 @@ const port = 8080;
 
 const todos = [
   {
-    id: 1,
+    id: 0,
     title: "React Hooks 익히기",
     status: "todo"
   },
   {
-    id: 2,
+    id: 1,
     title: "GraphQL 익히기",
     status: "todo"
   },
   {
-    id: 3,
+    id: 2,
     title: "Apollo 익히기",
     status: "todo"
   }
